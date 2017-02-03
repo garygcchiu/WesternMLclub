@@ -1,6 +1,5 @@
-This is a list containing of machine learning project suggestions and available databases that could be exploited. 
-
-## Project Suggestions
+# Project Suggestions
+This is a brief list containing of machine learning project suggestions.
 
 ## Cancer Lunge Detection (Kaggle)
 
@@ -57,6 +56,7 @@ https://www.quantnet.com/threads/master-list-of-free-financial-data.1036/
 
 
 # Databases
+This is a brief list containing databases that could be used for machine learning.
 
 ## 1000 Human Genome Based 
 
@@ -78,6 +78,8 @@ https://www.behance.net/gallery/10675283/Facial-Expression-Public-Databases
 ## Historical Climate Data
 
 https://www.ncdc.noaa.gov/cdo-web/
+
+
 ## Speech Recognition Databases
 
 http://www.speech.cs.cmu.edu/databases/
