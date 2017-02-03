@@ -1,4 +1,4 @@
-#Western Machine Learning Club
+This is a list containing of machine learning project suggestions and available databases that could be exploited. 
 
 # Project suggestions
 
