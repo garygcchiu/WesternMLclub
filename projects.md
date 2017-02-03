@@ -1,7 +1,6 @@
 This is a list containing of machine learning project suggestions and available databases that could be exploited. 
 
-# Project suggestions
-
+<img src="http://imageshack.com/f/pmrdd0mCp" width="900" height="400">
 
 ## Cancer Lunge Detection (Kaggle)
 
